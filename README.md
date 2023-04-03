@@ -1,9 +1,4 @@
 # About-Me
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Я Денис, аналитик данных 👨‍💻📈 работаю удаленно с 2021 года 🚀📈 Ранее работал интернет маркетологом, так же много работал с данными. Настройка автоотчетов по проведенным рекламным компаниям, внедрение сквозной аналитики, внедрение CRM - систем, настройка финансового учета компании. Выявление точек роста для бизнеса и работа над проблемами, на основе данных.</div>  
   
 
@@ -67,24 +62,4 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ilden888&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/> 
